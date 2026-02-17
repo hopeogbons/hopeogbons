@@ -5,3 +5,6 @@
 
 ## 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=hopeogbons&theme=radical)
+
+## 🧠 Top Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hopeogbons&layout=compact&theme=radical)
