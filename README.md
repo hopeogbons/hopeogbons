@@ -8,3 +8,6 @@
 
 ## 🧠 Top Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hopeogbons&layout=compact&theme=radical)
+
+## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=hopeogbons&theme=radical)
