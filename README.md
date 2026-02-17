@@ -1,209 +1,138 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=Hope+Ogbons;Senior+Agentic+%2F+Forward-Deployed+AI+Engineer" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=Hope+Ogbons;Senior+Agentic+Engineer;Forward-Deployed+AI+Architect" alt="Header" />
 
-**Applied LLM Systems &bull; Autonomous Agents &bull; Production AI Infrastructure**
+<p align="center">
+  <kbd>Applied LLM Systems</kbd> • <kbd>Autonomous Agents</kbd> • <kbd>Production AI Infrastructure</kbd>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hopeogbons-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hopeogbons)
-[![GitHub](https://img.shields.io/badge/GitHub-hopeogbons-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hopeogbons)
-[![Email](https://img.shields.io/badge/Email-hopeogbons@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hopeogbons@gmail.com)
-[![Location](https://img.shields.io/badge/Lagos,_Nigeria-1A73E8?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hopeogbons)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hopeogbons)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hopeogbons@gmail.com)
+<img src="https://img.shields.io/badge/Lagos,_Nigeria-1A73E8?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
 
 ---
 
-### `> whoami`
+## ⚡ Quick Status
 
-Forward-Deployed AI Engineer specializing in production-grade agentic systems, deterministic LLM orchestration, and real-world backend integration. Proven track record delivering secure, observable, cost-optimized AI systems across finance, healthcare, customer support, travel, and multi-agent environments. Strong focus on hallucination mitigation, system reliability, and stakeholder-facing rapid iteration.
-
-<table>
-<tr>
-<td align="center"><strong>15+</strong><br/>Years in Engineering</td>
-<td align="center"><strong>8+</strong><br/>Production AI Systems</td>
-<td align="center"><strong>5+</strong><br/>Industries Served</td>
-<td align="center"><strong>15+</strong><br/>Certifications</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="50%" style="border: none;">
+      <h3><code>> whoami</code></h3>
+      <p>Forward-Deployed AI Engineer specializing in production-grade <b>agentic systems</b> and deterministic LLM orchestration. I bridge the gap between "Research AI" and "Production Reality."</p>
+      <ul>
+        <li><b>Agentic Systems:</b> Multi-agent orchestration & tool execution.</li>
+        <li><b>LLM Reliability:</b> Pydantic validation & hallucination mitigation.</li>
+        <li><b>Forward Deployment:</b> Rapid iteration in Finance, Health, & Travel.</li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none;">
+      <br><br>
+      <div align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hopeogbons&theme=tokyonight" width="100%"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
-- **Agentic Systems** — Autonomous agents, multi-agent orchestration, tool execution engines, state machines
-- **LLM Engineering** — OpenAI (GPT-4o, GPT-5), AWS Bedrock, MCP, JSON Schema validation, deterministic execution
-- **Reliability & Safety** — Guardrails, Pydantic, hallucination mitigation, observability, audit trails
-- **Production AI** — Cost-optimized RAG, S3 vectors, HuggingFace embeddings, serverless inference pipelines
-- **Forward Deployment** — Embedded with stakeholders, rapid iteration, shipping AI across finance, healthcare, travel, and customer support
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>15+</b><br/>Years Exp</td>
+      <td align="center"><b>8+</b><br/>Prod AI Systems</td>
+      <td align="center"><b>5+</b><br/>Industries</td>
+      <td align="center"><b>15+</b><br/>Certifications</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### `> career`
+## 🛠 Tech Stack & Ecosystem
 
-**Co-Founder / Forward-Deployed AI Engineer** — RoboOffice *(May 2023 – Present)*
-Building AI-powered platforms including RoboCare (care matching & orchestration) and production AI systems for enterprise clients.
-
-**Senior Software Engineer / Forward-Deployed AI Engineer** — Andela *(May 2019 – Present)*
-Forward-deployed across multiple high-impact clients:
-
-| Client | Domain | Impact |
-|--------|--------|--------|
-| **MyWoosah Inc** | Healthcare | AI-powered care matching with pgvector semantic search and multi-tenant orchestration |
-| **Headspace Health** | Mental Health | Led frontend architecture for Headspace Care platform — React, Redux Toolkit, GraphQL |
-| **Medable, Inc.** | Clinical Trials | Enhanced Televisit platform and tooling for decentralized clinical trials |
-| **Medici Technologies** | Telehealth | Built HIPAA-compliant remote care workflows and backend interoperability |
-| **Groove Labs** | SaaS / CRM | Managed engineering squad of 4, drove #1 ranking in Enterprise Customer Satisfaction |
-
-**Software Developer Coordinator** — eHealth Africa *(Feb 2017 – Mar 2019)*
-Built offline-capable health informatics platforms for the **Bill & Melinda Gates Foundation** — EMID Vaccination Dashboard, Kano Health Facilities Registry — serving millions across West Africa.
-
-**Lead Software Developer** — RoboOffice Ltd *(Apr 2014 – Dec 2016)*
-Enterprise ERP (Redline Logistics), drone delivery system (Zipline), PropTech payment platform (Adron Homes), retail POS (Imagine Boutique). Drove 35% increase in operational efficiency.
-
-**Software Developer** — Syssoft Consultants Ltd *(Dec 2010 – Mar 2014)*
-Modernized mission-critical insurance suites for tier-1 firms (IGI, ARM, NEM). Maintained 99.9% uptime across all premium clients.
-
----
-
-### `> featured_projects`
-
-| Project | Description | Core Stack |
-|---------|-------------|------------|
-| [**Alex**](https://github.com/hopeogbons/alex) | Multi-Agent Financial Analysis Platform — 5 specialized AI agents, event-driven orchestration, cost-optimized S3-based RAG | OpenAI Agents SDK, Lambda, SQS, Bedrock, MCP, Terraform |
-| [**AI Battle Tank**](https://github.com/hopeogbons/ai-battle-tank) | Deceptive Swarm & Multi-Agent Orchestration for competitive game environments | Hierarchical LLM, AsyncIO, Trust Analysis, SQLite |
-| [**SkyAgent**](https://github.com/hopeogbons/SkyAgent) | LLM-Powered Autonomous Flight Booking with deterministic guardrails | GPT-4o, State Machine, Redis, Selenium, FastAPI |
-| [**MediNotes Pro**](https://github.com/hopeogbons/medinotes-pro) | AI-Powered Clinical Documentation Assistant with real-time streaming | GPT-5, SSE, FastAPI, Next.js, Docker, App Runner |
-| [**Digital Twin**](https://github.com/hopeogbons/digital-twin) | Context-Adaptive Persona Engine for professional representation | AWS Bedrock, Lambda, Terraform, S3, CloudFront |
-| [**Agent-in-a-loop**](https://github.com/hopeogbons/agent-in-a-loop) | Autonomous Todo-List Generation via custom agentic runtime — zero framework dependencies | GPT-4o, Raw JSON Schema, Custom Tool Engine |
-| [**Showcase**](https://github.com/hopeogbons/showcase) | MCP-Driven Agentic System for Automated Order Management | MCP, GPT-4o, Langfuse, OpenTelemetry, Gradio |
-| [**RoboCare**](https://github.com/hopeogbons/robocare_backend) | AI-Powered Care Matching & Multi-Tenant Orchestration System | GPT-4o-mini, pgvector, Django, Celery, Redis, Stripe |
-
----
-
-### `> tech_stack`
-
-**AI & LLM Runtimes**
-
+### 🧠 AI & Orchestration
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
 
-**Languages**
-
+### 💻 Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Backend & Frameworks**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-
-**Frontend**
-
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![AWS App Runner](https://img.shields.io/badge/App%20Runner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Databases & Storage**
-
+### 🗄️ Data & Vector
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-**Vector & Search**
-
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-01CC80?style=for-the-badge&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
-
-**Observability**
-
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 ---
 
-### `> certifications`
+## 🚀 Featured Agentic Projects
+
+| Project | Capability | Stack |
+| :--- | :--- | :--- |
+| [**Alex**](https://github.com/hopeogbons/alex) | **Financial Multi-Agent** | Lambda, SQS, Bedrock, RAG |
+| [**SkyAgent**](https://github.com/hopeogbons/SkyAgent) | **Autonomous Flight Booking** | State Machines, Redis, FastAPI |
+| [**AI Battle Tank**](https://github.com/hopeogbons/ai-battle-tank) | **Deceptive Swarm Intelligence** | AsyncIO, Hierarchical LLM |
+| [**RoboCare**](https://github.com/hopeogbons/robocare_backend) | **Multi-Tenant Care Matching** | pgvector, Django, Celery |
+
+---
+
+## 💼 Professional Timeline
+
+#### `2023 - Present` • **Co-Founder / Forward-Deployed AI Engineer** @ RoboOffice
+> Building autonomous platforms like RoboCare. Orchestrating enterprise-scale agentic workflows.
+
+#### `2019 - Present` • **Sr. AI Engineer** @ Andela (Embedded)
+* **MyWoosah:** Healthcare matching via semantic search.
+* **Headspace:** Scaleable mental health frontend architecture.
+* **Groove Labs:** Engineering leadership for Top-1% CRM satisfaction.
+
+#### `2017 - 2019` • **Software Coordinator** @ eHealth Africa
+* Architected offline health systems for **Bill & Melinda Gates Foundation**.
+
+---
+
+## 🏆 Education & Certs
 
 <details>
-<summary><strong>15+ Professional Certifications</strong> — click to expand</summary>
-<br/>
+<summary><b>🎓 Academic Foundation</b></summary>
+<br>
+- <b>BSc Computing</b> — University of Portsmouth, UK <br>
+- <b>Software Engineering (Java)</b> — NIIT, Nigeria <br>
+- <b>Computer Technology</b> — Obafemi Awolowo University
+</details>
 
-| Certification | Provider |
-|---------------|----------|
-| OpenAI for Developers | Pluralsight |
-| Machine Learning Engineering | Pluralsight |
-| Large Language Models - Prompt Engineering | Pluralsight |
-| Retrieval-Augmented Generation (RAG) | Pluralsight |
-| Redux Saga | Pluralsight |
-| AI Builder with n8n: Create Agents & Voice Agents | Udemy |
-| AI Leadership Track: Gen AI, Agentic AI for Business Leaders | Udemy |
-| AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents | Udemy |
-| AI Engineer Agentic Track: The Complete Agent & MCP Course | Udemy |
-| JavaScript Algorithms and Data Structures Masterclass | Udemy |
-| Modern React 18 Bootcamp | Udemy |
-| React Testing Library and Jest: The Complete Guide | Udemy |
-| GraphQL by Example | Udemy |
-| Jira and Greenhopper for Agile Teams | Udemy |
-| Agile Methodologies | Callif Technologies |
+<details>
+<summary><b>📜 15+ Industry Certifications</b></summary>
+<br>
+
+| Focus | Key Credentials |
+| :--- | :--- |
+| **AI/ML** | AI Engineer Agentic Track, LLM Engineering, RAG & QLoRA |
+| **Development** | React 18, JavaScript Algorithms, GraphQL, Redux Saga |
+| **Process** | Agile Methodologies, Jira/Greenhopper Mastery |
 
 </details>
 
 ---
 
-### `> education`
-
-**BSc Computing** — University of Portsmouth, UK
-**Professional Diploma in Software Engineering (Java)** — NIIT, Lagos, Nigeria
-**Diploma in Computer Technology** — Obafemi Awolowo University, Nigeria
-
----
-
-### `> github_analytics`
+## 📊 Git Insights
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hopeogbons&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
-&nbsp;&nbsp;
-<img height="180" src="https://streak-stats.demolab.com?user=hopeogbons&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
-
-<br/><br/>
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hopeogbons&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hopeogbons&theme=tokyonight&utcOffset=1" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hopeogbons&theme=tokyonight" />
-
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hopeogbons&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
+  <img height="180" src="https://streak-stats.demolab.com?user=hopeogbons&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
 </div>
 
----
+<br>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hopeogbons&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" />
-
+  <img src="https://komarev.com/ghpvc/?username=hopeogbons&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" />
 </div>
