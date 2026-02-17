@@ -75,3 +75,11 @@ Senior Forward-Deployed AI Engineer with deep expertise in building and deployin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hopeogbons&bg_color=0D1117&color=70A5FD&line=70A5FD&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hopeogbons&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" />
+
+</div>
