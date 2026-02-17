@@ -21,3 +21,18 @@ Forward-Deployed AI Engineer specializing in production-grade agentic systems, d
 - **LLM Engineering** — OpenAI, AWS Bedrock, MCP, deterministic execution, hallucination mitigation
 - **Production AI** — Cost-optimized RAG, vector search, serverless inference, observability pipelines
 - **Forward Deployment** — Embedded with stakeholders, shipping AI across finance, healthcare, and travel
+
+---
+
+### `> featured_projects`
+
+| Project | Description | Core Stack |
+|---------|-------------|------------|
+| [**Alex**](https://github.com/hopeogbons/alex) | Multi-Agent Financial Analysis Platform — 5 specialized AI agents, event-driven orchestration, cost-optimized S3-based RAG | OpenAI Agents SDK, Lambda, SQS, Bedrock, MCP, Terraform |
+| [**AI Battle Tank**](https://github.com/hopeogbons/ai-battle-tank) | Deceptive Swarm & Multi-Agent Orchestration for competitive game environments | Hierarchical LLM, AsyncIO, Trust Analysis, SQLite |
+| [**SkyAgent**](https://github.com/hopeogbons/SkyAgent) | LLM-Powered Autonomous Flight Booking with deterministic guardrails | GPT-4o, State Machine, Redis, Selenium, FastAPI |
+| [**MediNotes Pro**](https://github.com/hopeogbons/medinotes-pro) | AI-Powered Clinical Documentation Assistant with real-time streaming | GPT-5, SSE, FastAPI, Next.js, Docker, App Runner |
+| [**Digital Twin**](https://github.com/hopeogbons/digital-twin) | Context-Adaptive Persona Engine for professional representation | AWS Bedrock, Lambda, Terraform, S3, CloudFront |
+| [**Agent-in-a-loop**](https://github.com/hopeogbons/agent-in-a-loop) | Autonomous Todo-List Generation via custom agentic runtime — zero framework dependencies | GPT-4o, Raw JSON Schema, Custom Tool Engine |
+| [**Showcase**](https://github.com/hopeogbons/showcase) | MCP-Driven Agentic System for Automated Order Management | MCP, GPT-4o, Langfuse, OpenTelemetry, Gradio |
+| [**RoboCare**](https://github.com/hopeogbons/robocare_backend) | AI-Powered Care Matching & Multi-Tenant Orchestration System | GPT-4o-mini, pgvector, Django, Celery, Redis, Stripe |
