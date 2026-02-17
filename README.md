@@ -5,3 +5,14 @@
 *Architecting and shipping production AI systems where research meets real-world impact.*
 
 </div>
+
+---
+
+### `> whoami`
+
+Senior Forward-Deployed AI Engineer with deep expertise in building and deploying production AI systems at scale. I work at the intersection of applied ML, systems engineering, and product — turning cutting-edge research into solutions that deliver real-world impact. From model development and optimization to infrastructure and client-facing deployment, I operate across the full stack.
+
+- **Production ML Systems** — Designing and operating end-to-end ML pipelines, from training to serving at scale
+- **LLM Engineering** — Building enterprise applications powered by large language models
+- **MLOps & Infrastructure** — Containerization, orchestration, CI/CD, and observability for ML workloads
+- **Forward Deployment** — Embedded with teams and stakeholders, delivering AI that solves real problems
