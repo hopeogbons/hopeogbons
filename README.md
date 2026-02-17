@@ -104,3 +104,33 @@ Forward-Deployed AI Engineer specializing in production-grade agentic systems, d
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+### `> github_analytics`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hopeogbons&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9" />
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=hopeogbons&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" />
+
+<br/><br/>
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hopeogbons&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hopeogbons&theme=tokyonight&utcOffset=1" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hopeogbons&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hopeogbons&style=for-the-badge&color=70A5FD&label=PROFILE+VIEWS" />
+
+</div>
