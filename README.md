@@ -17,10 +17,20 @@
 
 Forward-Deployed AI Engineer specializing in production-grade agentic systems, deterministic LLM orchestration, and real-world backend integration. Proven track record delivering secure, observable, cost-optimized AI systems across finance, healthcare, customer support, travel, and multi-agent environments. Strong focus on hallucination mitigation, system reliability, and stakeholder-facing rapid iteration.
 
+<table>
+<tr>
+<td align="center"><strong>15+</strong><br/>Years in Engineering</td>
+<td align="center"><strong>8+</strong><br/>Production AI Systems</td>
+<td align="center"><strong>5+</strong><br/>Industries Served</td>
+<td align="center"><strong>15+</strong><br/>Certifications</td>
+</tr>
+</table>
+
 - **Agentic Systems** — Autonomous agents, multi-agent orchestration, tool execution engines, state machines
-- **LLM Engineering** — OpenAI, AWS Bedrock, MCP, deterministic execution, hallucination mitigation
-- **Production AI** — Cost-optimized RAG, vector search, serverless inference, observability pipelines
-- **Forward Deployment** — Embedded with stakeholders, shipping AI across finance, healthcare, and travel
+- **LLM Engineering** — OpenAI (GPT-4o, GPT-5), AWS Bedrock, MCP, JSON Schema validation, deterministic execution
+- **Reliability & Safety** — Guardrails, Pydantic, hallucination mitigation, observability, audit trails
+- **Production AI** — Cost-optimized RAG, S3 vectors, HuggingFace embeddings, serverless inference pipelines
+- **Forward Deployment** — Embedded with stakeholders, rapid iteration, shipping AI across finance, healthcare, travel, and customer support
 
 ---
 
