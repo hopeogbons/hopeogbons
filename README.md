@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=Hope+Ogbons;Senior+Agentic+Engineer;Forward-Deployed+AI+Architect" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=800&height=100&lines=Hope+Ogbons;Senior+Software+Engineer;Forward-Deployed+AI+Engineer" alt="Header" />
 
 <p align="center">
   <kbd>Applied LLM Systems</kbd> • <kbd>Autonomous Agents</kbd> • <kbd>Production AI Infrastructure</kbd>
