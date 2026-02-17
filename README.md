@@ -34,6 +34,33 @@ Forward-Deployed AI Engineer specializing in production-grade agentic systems, d
 
 ---
 
+### `> career`
+
+**Co-Founder / Forward-Deployed AI Engineer** — RoboOffice *(May 2023 – Present)*
+Building AI-powered platforms including RoboCare (care matching & orchestration) and production AI systems for enterprise clients.
+
+**Senior Software Engineer / Forward-Deployed AI Engineer** — Andela *(May 2019 – Present)*
+Forward-deployed across multiple high-impact clients:
+
+| Client | Domain | Impact |
+|--------|--------|--------|
+| **MyWoosah Inc** | Healthcare | AI-powered care matching with pgvector semantic search and multi-tenant orchestration |
+| **Headspace Health** | Mental Health | Led frontend architecture for Headspace Care platform — React, Redux Toolkit, GraphQL |
+| **Medable, Inc.** | Clinical Trials | Enhanced Televisit platform and tooling for decentralized clinical trials |
+| **Medici Technologies** | Telehealth | Built HIPAA-compliant remote care workflows and backend interoperability |
+| **Groove Labs** | SaaS / CRM | Managed engineering squad of 4, drove #1 ranking in Enterprise Customer Satisfaction |
+
+**Software Developer Coordinator** — eHealth Africa *(Feb 2017 – Mar 2019)*
+Built offline-capable health informatics platforms for the **Bill & Melinda Gates Foundation** — EMID Vaccination Dashboard, Kano Health Facilities Registry — serving millions across West Africa.
+
+**Lead Software Developer** — RoboOffice Ltd *(Apr 2014 – Dec 2016)*
+Enterprise ERP (Redline Logistics), drone delivery system (Zipline), PropTech payment platform (Adron Homes), retail POS (Imagine Boutique). Drove 35% increase in operational efficiency.
+
+**Software Developer** — Syssoft Consultants Ltd *(Dec 2010 – Mar 2014)*
+Modernized mission-critical insurance suites for tier-1 firms (IGI, ARM, NEM). Maintained 99.9% uptime across all premium clients.
+
+---
+
 ### `> featured_projects`
 
 | Project | Description | Core Stack |
