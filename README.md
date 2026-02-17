@@ -10,3 +10,14 @@
 [![Location](https://img.shields.io/badge/Lagos,_Nigeria-1A73E8?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
+
+---
+
+### `> whoami`
+
+Forward-Deployed AI Engineer specializing in production-grade agentic systems, deterministic LLM orchestration, and real-world backend integration. Proven track record delivering secure, observable, cost-optimized AI systems across finance, healthcare, customer support, travel, and multi-agent environments. Strong focus on hallucination mitigation, system reliability, and stakeholder-facing rapid iteration.
+
+- **Agentic Systems** — Autonomous agents, multi-agent orchestration, tool execution engines, state machines
+- **LLM Engineering** — OpenAI, AWS Bedrock, MCP, deterministic execution, hallucination mitigation
+- **Production AI** — Cost-optimized RAG, vector search, serverless inference, observability pipelines
+- **Forward Deployment** — Embedded with stakeholders, shipping AI across finance, healthcare, and travel
