@@ -1,13 +1,7 @@
-# Hi, I'm Hope 👋
+<div align="center">
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=hopeogbons&show_icons=true&theme=radical)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&random=false&width=700&height=100&lines=Hope+Ogbons;Senior+Forward-Deployed+AI+Engineer" alt="Header" />
 
-## 🔥 Streak Stats
-![Streak](https://streak-stats.demolab.com?user=hopeogbons&theme=radical)
+*Architecting and shipping production AI systems where research meets real-world impact.*
 
-## 🧠 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hopeogbons&layout=compact&theme=radical)
-
-## 🏆 Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=hopeogbons&theme=radical)
+</div>
