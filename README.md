@@ -144,6 +144,42 @@ Modernized mission-critical insurance suites for tier-1 firms (IGI, ARM, NEM). M
 
 ---
 
+### `> certifications`
+
+<details>
+<summary><strong>15+ Professional Certifications</strong> — click to expand</summary>
+<br/>
+
+| Certification | Provider |
+|---------------|----------|
+| OpenAI for Developers | Pluralsight |
+| Machine Learning Engineering | Pluralsight |
+| Large Language Models - Prompt Engineering | Pluralsight |
+| Retrieval-Augmented Generation (RAG) | Pluralsight |
+| Redux Saga | Pluralsight |
+| AI Builder with n8n: Create Agents & Voice Agents | Udemy |
+| AI Leadership Track: Gen AI, Agentic AI for Business Leaders | Udemy |
+| AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents | Udemy |
+| AI Engineer Agentic Track: The Complete Agent & MCP Course | Udemy |
+| JavaScript Algorithms and Data Structures Masterclass | Udemy |
+| Modern React 18 Bootcamp | Udemy |
+| React Testing Library and Jest: The Complete Guide | Udemy |
+| GraphQL by Example | Udemy |
+| Jira and Greenhopper for Agile Teams | Udemy |
+| Agile Methodologies | Callif Technologies |
+
+</details>
+
+---
+
+### `> education`
+
+**BSc Computing** — University of Portsmouth, UK
+**Professional Diploma in Software Engineering (Java)** — NIIT, Lagos, Nigeria
+**Diploma in Computer Technology** — Obafemi Awolowo University, Nigeria
+
+---
+
 ### `> github_analytics`
 
 <div align="center">
