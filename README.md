@@ -1,8 +1,11 @@
 <!-- Hope Ogbons · Theme-adaptive GitHub profile · November 2026 -->
 <div align="center">
 
-![Hope Ogbons — Senior AI FDE and Senior Full-Stack Engineer](assets/portfolio-hero-dark.svg#gh-dark-mode-only)
-![Hope Ogbons — Senior AI FDE and Senior Full-Stack Engineer](assets/portfolio-hero-light.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-hero-light.svg" />
+  <img src="assets/portfolio-hero-light.svg" alt="Hope Ogbons — Senior AI FDE and Senior Full-Stack Engineer" width="100%" />
+</picture>
 
 **Building reliable AI systems and full-stack products — from architecture to production.**
 
@@ -24,15 +27,11 @@ I specialize in **advanced Python**, **Django**, **FastAPI**, **React**, **TypeS
 
 ### Selected work
 
-<a href="https://github.com/hopeogbons/learningOS"><img src="assets/project-learning-dark.svg#gh-dark-mode-only" width="49%" alt="Learning OS project" /></a>
-<a href="https://github.com/hopeogbons/learningOS"><img src="assets/project-learning-light.svg#gh-light-mode-only" width="49%" alt="Learning OS project" /></a>
-<a href="https://customersupport.ng"><img src="assets/project-support-dark.svg#gh-dark-mode-only" width="49%" alt="CustomerSupport.ng project" /></a>
-<a href="https://customersupport.ng"><img src="assets/project-support-light.svg#gh-light-mode-only" width="49%" alt="CustomerSupport.ng project" /></a>
+<a href="https://github.com/hopeogbons/learningOS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-learning-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-learning-light.svg" /><img src="assets/project-learning-light.svg" width="49%" alt="Learning OS project" /></picture></a>
+<a href="https://customersupport.ng"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-support-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-support-light.svg" /><img src="assets/project-support-light.svg" width="49%" alt="CustomerSupport.ng project" /></picture></a>
 
-<a href="https://github.com/hopeogbons/maat"><img src="assets/project-maat-dark.svg#gh-dark-mode-only" width="49%" alt="Ma'at project" /></a>
-<a href="https://github.com/hopeogbons/maat"><img src="assets/project-maat-light.svg#gh-light-mode-only" width="49%" alt="Ma'at project" /></a>
-<a href="https://github.com/hopeogbons?tab=repositories"><img src="assets/project-twin-dark.svg#gh-dark-mode-only" width="49%" alt="Digital Twin project" /></a>
-<a href="https://github.com/hopeogbons?tab=repositories"><img src="assets/project-twin-light.svg#gh-light-mode-only" width="49%" alt="Digital Twin project" /></a>
+<a href="https://github.com/hopeogbons/maat"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-maat-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-maat-light.svg" /><img src="assets/project-maat-light.svg" width="49%" alt="Ma'at project" /></picture></a>
+<a href="https://github.com/hopeogbons?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-twin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/project-twin-light.svg" /><img src="assets/project-twin-light.svg" width="49%" alt="Digital Twin project" /></picture></a>
 
 <sub>Selected portfolio work includes publicly accessible code and commercial systems whose source may be private.</sub>
 
