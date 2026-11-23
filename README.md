@@ -4,10 +4,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-hero-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/portfolio-hero-light.svg" />
-  <img src="assets/portfolio-hero-light.svg" alt="Hope Ogbons — Senior AI FDE and Senior Full-Stack Engineer" width="100%" />
+  <img src="assets/portfolio-hero-light.svg" alt="Hope Ogbons - Senior AI FDE and Senior Full-Stack Engineer" width="100%" />
 </picture>
 
-**Building reliable AI systems and full-stack products — from architecture to production.**
+**Building reliable AI systems and full-stack products - from architecture to production.**
 
 Senior Forward-Deployed AI Engineer · Senior Full-Stack Software Engineer · Founder
 
@@ -37,13 +37,13 @@ I specialize in **advanced Python**, **Django**, **FastAPI**, **React**, **TypeS
 
 ### Technical depth
 
-**AI engineering** — Multi-agent workflows, OpenAI Agents SDK, LangGraph, MCP, RAG, embeddings, pgvector, LLM-as-judge, structured outputs, confidence gates, Langfuse, OpenTelemetry.
+**AI engineering** - Multi-agent workflows, OpenAI Agents SDK, LangGraph, MCP, RAG, embeddings, pgvector, LLM-as-judge, structured outputs, confidence gates, Langfuse, OpenTelemetry.
 
-**Python & backend** — Advanced Python, Django, FastAPI, asyncio, Pydantic, Celery, Redis, PostgreSQL, background processing, API design, distributed workflows.
+**Python & backend** - Advanced Python, Django, FastAPI, asyncio, Pydantic, Celery, Redis, PostgreSQL, background processing, API design, distributed workflows.
 
-**JavaScript & frontend** — JavaScript, TypeScript, React, Next.js, Node.js, Redux Toolkit, Redux-Saga, GraphQL, REST, application architecture.
+**JavaScript & frontend** - JavaScript, TypeScript, React, Next.js, Node.js, Redux Toolkit, Redux-Saga, GraphQL, REST, application architecture.
 
-**Cloud & infrastructure** — AWS Lambda, Bedrock, S3, SQS, App Runner, Terraform, Docker, CI/CD, observability and secure integrations.
+**Cloud & infrastructure** - AWS Lambda, Bedrock, S3, SQS, App Runner, Terraform, Docker, CI/CD, observability and secure integrations.
 
 ### Engineering impact
 
@@ -58,18 +58,19 @@ I specialize in **advanced Python**, **Django**, **FastAPI**, **React**, **TypeS
 
 | Organization | Responsibility | Period |
 |:--|:--|:--|
-| **RoboOffice Ltd** | CEO, Co-Founder & Forward-Deployed AI Engineer | May 2023 – Present |
-| **Andela** | Senior Software Engineer, Forward-Deployed | May 2019 – Present |
-| **eHealth Africa** | Software Developer Coordinator | Feb 2017 – Mar 2019 |
-| **RoboOffice Ltd** | Co-Founder & Principal Engineer | Apr 2014 – Dec 2016 |
-| **Syssoft Consultants Limited** | Software Engineer | Dec 2010 – Mar 2014 |
+| **RoboOffice Ltd** | CEO, Co-Founder & Forward-Deployed AI Engineer | May 2023 - Present |
+| **Andela** | Senior Software Engineer, Forward-Deployed | May 2019 - Present |
+| **eHealth Africa** | Software Developer Coordinator | Feb 2017 - Mar 2019 |
+| **RoboOffice Ltd** | Co-Founder & Principal Engineer | Apr 2014 - Dec 2016 |
+| **Syssoft Consultants Limited** | Software Engineer | Dec 2010 - Mar 2014 |
 
 ### Credentials
 
-- **CCAO Foundations** — Claude Certified Associate · **Certified**
-- **CCDV Foundations** — Claude Certified Developer · **Certified**
-- **CCAR Foundations** — Claude Certified Architect · **In Progress**
-- **Proficient AI Engineer** — Ed Donner · **Completed (2026)**
+- **CCAO Foundations** - Claude Certified Associate · **Certified**
+- **CCDV Foundations** - Claude Certified Developer · **Certified**
+- **CCAR Foundations** - Claude Certified Architect · **Certified**
+- **CCARP** - Claude Certified Architect Professional · **In Progress**
+- **Proficient AI Engineer** - Ed Donner · **Completed (2026)**
 
 ### Education
 
