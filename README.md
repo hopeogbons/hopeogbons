@@ -69,7 +69,7 @@ I specialize in **advanced Python**, **Django**, **FastAPI**, **React**, **TypeS
 - **CCAO Foundations** - Claude Certified Associate · **Certified**
 - **CCDV Foundations** - Claude Certified Developer · **Certified**
 - **CCAR Foundations** - Claude Certified Architect · **Certified**
-- **CCARP** - Claude Certified Architect Professional · **In Progress**
+- **CCAR Professional** - Claude Certified Architect Professional · **In Progress**
 - **Proficient AI Engineer** - Ed Donner · **Completed (2026)**
 
 ### Education
